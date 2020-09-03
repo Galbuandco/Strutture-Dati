@@ -1,3 +1,8 @@
-# Strutture-Dati
+# Strutture-Dati:
 
-Lista concatenata semplice implementata in C
+- Lista concatenata semplice 
+
+
+
+
+implementate in C
